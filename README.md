@@ -1,10 +1,10 @@
 Welcome to **Donut SMP Market** a simple, fun marketplace experience built around the Donut SMP economy.
 
-This project is designed to work without user accounts, logins, or registration. It focuses on fast, easy trading using **Donut SMP money**.
+This project is designed to work without real life money or email logins. It focuses on fast, easy trading using **Donut SMP money**.
 
 ## Key Features
 
-- No login or registration required
+- No email required
 - Immediate access to the market
 - Uses Donut SMP money as the in-game currency
 - Simple buying and selling flow
